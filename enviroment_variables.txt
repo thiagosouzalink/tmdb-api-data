@@ -1,0 +1,10 @@
+1 - Create a file called .env
+
+2 - Enter the following environment variables with values ​​from your personal settings.
+
+API_KEY="YOUR API_KEY TMDB"
+AWS_ACCESS_KEY_ID="YOUR AWS ACCESS KEY"
+AWS_SECRET_ACCESS_KEY="YOUR AWS SECRET ACCESS KEY"
+REGION_NAME="REGION OF YOUR BUCKET"
+BUCKET_NAME="YOUR BUCKET NAME"
+OBJECT_NAME="YOUR OBJECT FOLDER"
